@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+cluster_probabilities.pkl
+gmm_model.pkl
+movies_metadata.pkl
